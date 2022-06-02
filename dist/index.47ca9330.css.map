@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["css/main.css"],"sourcesContent":["#circle{\n    border: red 3px solid;\n    position: absolute;\n    width: 50px;\n    height: 50px;\n    background-color: red;\n    border-radius:50% ;\n    color: red;\n}"],"names":[],"version":3,"file":"index.47ca9330.css.map","sourceRoot":"/__parcel_source_root/"}

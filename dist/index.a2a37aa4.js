@@ -504,9 +504,12 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"3rz9v":[function(require,module,exports) {
 const pointer = document.getElementById("pointer");
+const circ = document.getElementById("circle");
 window.addEventListener("mousemove", (e)=>{
     pointer.style.left = e.clientX + 15 + "px";
     pointer.style.top = e.clientY + 15 + "px";
+    circ.style.left = e.clientY + 10 + "px";
+    circ.style.top = e.clientX + 10 + "px";
 });
 
 },{}]},["4hlmb","3rz9v"], "3rz9v", "parcelRequire10ff")
