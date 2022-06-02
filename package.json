@@ -1,0 +1,14 @@
+{
+  "name": "fork-pull-project",
+  "version": "1.0.0",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  }
+}
